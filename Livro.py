@@ -43,10 +43,10 @@ print(livro1.get_ano_publicacao())   # 1954
 print(livro1.get_preco())            # 120.0
 
 # Testando setters
-livro1.set_titulo("O Hobbit")
-livro1.set_autor("J.R.R. Tolkien Jr.")
-livro1.set_ano_publicacao(1937)
-livro1.set_preco(90.0)
+livro1.set_titulo("Harry Potter e a Pedra Filosofal")
+livro1.set_autor("J.K. Rowling")
+livro1.set_ano_publicacao(1997)
+livro1.set_preco(100.0)
 
 # Verificando alterações
 print(livro1.get_titulo())           # O Hobbit
