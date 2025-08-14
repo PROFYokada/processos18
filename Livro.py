@@ -53,5 +53,3 @@ print(livro1.get_titulo())           # O Hobbit
 print(livro1.get_autor())            # J.R.R. Tolkien Jr.
 print(livro1.get_ano_publicacao())   # 1937
 print(livro1.get_preco())            # 90.0
-
-FIZ MERDA 
